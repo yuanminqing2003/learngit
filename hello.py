@@ -1,1 +1,1 @@
-add /usr/bin/dev /local/
+add /usr/bin/dev  /bin/ /local/
